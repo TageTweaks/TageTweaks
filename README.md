@@ -1,5 +1,5 @@
 # Hey, I'm Tage 👋
-### @TageTweaks — Windows performance tuning, privacy hardening & custom OS builds
+### @TageTweaks — Windows performance tuning, privacy hardening & a customised OS build.
 
 ---
 
