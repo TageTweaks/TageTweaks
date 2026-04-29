@@ -1,14 +1,14 @@
 # Hey, I'm Tage 👋
-### @TageTweaks — Windows performance tuning, privacy hardening & a customised OS build.
+### @TageTweaks — Windows performance tuning, BIOS And Overclocks.
 
 ---
 
 ## 🖥️ TageOS
-A custom Windows 11 23H2 image built from the ground up with NTLite.  
-Focused on **maximum gaming performance**, **privacy hardening**, and **zero bloat**.
+A custom Windows 11 23H2 image built from the ground up.  
+Focused on **maximum gaming performance**, **telemtry wipe**, and **zero bloat**.
 
 **What's under the hood:**
-- 🔒 Full telemetry & privacy hardening
+- 🔒 Full telemetry & privacy configuration
 - 🧹 Deep system debloat
 - ⚡ Gaming & latency optimisation
 - 🌐 NIC & network tuning
@@ -19,11 +19,14 @@ Focused on **maximum gaming performance**, **privacy hardening**, and **zero blo
 
 ---
 
-## 🔧 What I Do
-- Custom Windows image building with NTLite
-- PowerShell scripting for system automation
-- High-level Windows performance & registry tuning
-- Driver optimisation (Realtek NIC, NVIDIA, AMD)
+## 🔧 What I Offer
+- Windows Optimisation
+- Stripped Custom OS (TageOS)
+- Full Network Optimisation
+- 150-200+ BIOS Settings Configured For Every System
+- GPU Otimizations + Overclock (AMD NVIDIA)
+- Very Cheap Services
+- So Much More!
 
 ---
 
